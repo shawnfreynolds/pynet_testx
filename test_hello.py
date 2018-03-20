@@ -1,3 +1,5 @@
 print "hello world"
 
-print "neato"
+print "neat"
+for i in range(10):
+   print(i)
